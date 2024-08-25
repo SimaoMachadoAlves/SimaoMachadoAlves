@@ -6,14 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/simao_alves20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simao_alves20" height="30" width="40" /></a>
-<a href="https://instagram.com/simaoalves20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simaoalves20" height="30" width="40" /></a>
-</p>
-
-- 🌱 I’m currently learning **Node.js**
-
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -25,7 +17,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/602px-Bootstrap_logo.svg.png" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -51,13 +43,6 @@
 
 <h3 align="left">Others:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -69,7 +54,12 @@
   </a>
 </p>
 
+<br/>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaomachadoalves&show_icons=true&locale=en&layout=compact" alt="simaomachadoalves" /></p>
 
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/simao_alves20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simao_alves20" height="30" width="40" /></a>
+<a href="https://instagram.com/simaoalves20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simaoalves20" height="30" width="40" /></a>
+</p>
