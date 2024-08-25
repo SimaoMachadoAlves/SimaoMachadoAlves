@@ -1,4 +1,4 @@
-### Hi there 👋, Simão Alves
+### Hi there 👋, I'm Simão Alves
 #### Full Stack Dev
 ![Full Stack Dev](https://github.com/SimaoMachadoAlves/SimaoMachadoAlves/blob/main/Banner%20Sim%C3%A3o%20Alves.png)
 
@@ -6,7 +6,13 @@ I'm Simão Alves, a full stack dev. I'm 21 years old, I live in Braga (Portugal)
 
 Skills: REACT / JS / NODE.JS
 
-- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SimaoMachadoAlves)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimaoMachadoAlves)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SimaoMachadoAlves&show_icons=true)  
 
 
 
