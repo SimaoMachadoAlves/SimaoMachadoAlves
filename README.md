@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm 21 years old, I live in Braga (Portugal) and my passion is Web development. I enjoy working with some web program languages and libraries such as JavaScript and ReactJs and I've been doing some projects and learning by my own after completing successfully my Degree in Engineering and Management of Information Systems, at the University of Minho.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
 
 <h3 align="left">Frontend:</h3>
 <p align="left">
@@ -55,8 +55,6 @@
 </p>
 
 <br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simaomachadoalves&show_icons=true&locale=en&layout=compact" alt="simaomachadoalves" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
