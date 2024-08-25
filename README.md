@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Simão Alves</h1>
+
 ![Full Stack Dev](https://github.com/SimaoMachadoAlves/SimaoMachadoAlves/blob/main/Banner%20Sim%C3%A3o%20Alves.png)
 
-<h1 align="center">Hi 👋, I'm Simão Alves</h1>
 <h3 align="center">I'm 21 years old, I live in Braga (Portugal) and my passion is Web development. I enjoy working with some web program languages and libraries such as JavaScript and ReactJs and I've been doing some projects and learning by my own after completing successfully my Degree in Engineering and Management of Information Systems, at the University of Minho.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
