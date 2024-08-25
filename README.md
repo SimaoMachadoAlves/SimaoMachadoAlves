@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
 
 <h3 align="left">Frontend:</h3>
-<p align="left">
+<p style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
