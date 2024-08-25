@@ -4,10 +4,10 @@
 
 <h3 align="center">I'm 21 years old, I live in Braga (Portugal) and my passion is Web development. I enjoy working with some web program languages and libraries such as JavaScript and ReactJs and I've been doing some projects and learning by my own after completing successfully my Degree in Engineering and Management of Information Systems, at the University of Minho.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
+
 
 <h3 align="left">Frontend:</h3>
-<p style="display: flex; justify-content: space-between; align-items: center;">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
