@@ -6,6 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=simaomachadoalves&label=Profile%20views&color=0e75b6&style=flat" alt="simaomachadoalves" /> </p>
 
+<h2>Skills</h2>
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -53,8 +54,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
